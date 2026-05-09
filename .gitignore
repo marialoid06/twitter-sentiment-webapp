@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+
+# Data files (Optional but recommended)
+Twitter_Data.csv
